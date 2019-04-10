@@ -1,0 +1,33 @@
+
+h1
+{
+    /* color */
+    color: red;
+
+    /* center contents */
+    text-align: center;
+}
+.marge
+{
+  margin: 30px;
+}
+#navbar
+{
+  border: 5px dotted red;
+}
+button{
+  background-color: red;
+}
+ol li{
+  background-color: yellow;
+  color: red;
+}
+button:hover{
+  background-color: green;
+}
+@media (max-width: 499px)
+{
+  img{
+    display: none;
+  }
+}
